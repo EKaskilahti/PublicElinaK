@@ -29,7 +29,8 @@
 
 ´´´ print("Hello, world!")
 
-
+```python
+print("Hello, world!")
 
 
 * Tässä linkki [GitHubiin](https://github.com/) *
