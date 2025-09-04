@@ -2,3 +2,8 @@ Tänne voisi sitten kirjoittaa jotain
 En vaan tiedä mitä
 
 Tehdään vielä muutoksia
+
+
+Note to self:
+
+Muista tallentaa uusi versio ennen kuin yrität commit + push 
