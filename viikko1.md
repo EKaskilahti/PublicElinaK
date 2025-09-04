@@ -12,9 +12,9 @@
 2. Instagram
 3. Snapchat
 
+---
 
-
-| Nimi      | Ikä  |
+| ** Nimi **      | ** Ikä **  |
 |-----------|------|
 | Elina     | 27   |
 | Matti     | 30   |
