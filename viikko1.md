@@ -42,7 +42,8 @@ print("Testataan")
 ```
 ---
 
-> Tähän keksin hyvän lainauksen
+##### Tämän lauseen mukaan elän #####
+> Peace and love
 
 ---
 
