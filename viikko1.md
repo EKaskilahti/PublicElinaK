@@ -13,12 +13,16 @@
 3. Snapchat
 
 ---
+### Kuinka paljon kulutan rahaa palveluihin ###
 
-| **Nimi**      | **Ikä**  |
+| **Palvelut joita käytän**      | **Hinta mitä maksan**  |
 |-----------|------|
-| Elina     | 27   |
-| Matti     | 30   |
-| Maija     | 25   |
+| Hbo | 6,99 €   |
+| Viaplay | 13,99 €   |
+| Disney+ | 8,99 €   |
+| Netfix | 0 € |
+| Youtube Premium | 19,99 € |
+| Podme | 9.99 € |
 
 
 ---
