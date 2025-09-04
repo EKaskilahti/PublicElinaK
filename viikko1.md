@@ -35,15 +35,13 @@
 
 #### Python testaus ####
 
-´´´ print("Hello, world!")
-
 ```python
 print("Testataan")
 ```
 ---
 
 ##### Tämän lauseen mukaan elän #####
-> Peace and love
+> *Peace and love*
 
 ---
 
